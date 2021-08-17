@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CLI">
+    <Position X="0.5" Y="1.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAAAgAAAUAAwAAAAgQkAQAgADBBAABAA=</HashCode>
+      <FileName>CLI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nacitavac">
+    <Position X="0.5" Y="6.25" Width="8.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAoCAAAAIAQCAAQAAAAAAAAC0ACAAAIAIAAAQAAAg=</HashCode>
+      <FileName>Nacitavac.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triedenie&lt;K, T, V&gt;">
+    <Position X="0.5" Y="11.25" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Triedenie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLIObce">
+    <Position X="5.25" Y="1.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLIObce.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLIUzemneJednotky">
+    <Position X="5.25" Y="3" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>CLIUzemneJednotky.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLIBytoveJednotky">
+    <Position X="5.25" Y="4.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLIBytoveJednotky.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BytovaJednotka">
+    <Position X="11.25" Y="13" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABgIAAAAABDBAEACAAAAAIIAAAAAIBEAAAAAA=</HashCode>
+      <FileName>BytovaJednotka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UzemnaJednotka">
+    <Position X="0.5" Y="12.75" Width="10.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAgAAAAAAMAoAIABCEAAGAAAAgAABBBJAAAAAQA=</HashCode>
+      <FileName>UzemnaJednotka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UzemnaJednotkaTyp">
+    <Position X="9" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>UzemnaJednotkaTyp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

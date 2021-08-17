@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Kriterium&lt;T, O&gt;">
+    <Position X="4" Y="4.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJ&lt;T&gt;" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJCelkovaVymera">
+    <Position X="0.75" Y="14" Width="3.75" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="6.941" />
+        <Point X="3.5" Y="9.361" />
+        <Point X="0.59" Y="9.361" />
+        <Point X="0.59" Y="13.76" />
+        <Point X="2.625" Y="13.76" />
+        <Point X="2.625" Y="14" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJCelkovaVymera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJNazov">
+    <Position X="0.75" Y="9.75" Width="3.75" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.125" Y="6.941" />
+        <Point X="4.125" Y="9.528" />
+        <Point X="2.625" Y="9.528" />
+        <Point X="2.625" Y="9.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJNazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetObyv">
+    <Position X="5" Y="9.5" Width="4" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="9.125" />
+        <Point X="7" Y="9.125" />
+        <Point X="7" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPocetObyv.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetPreprodObyv">
+    <Position X="5" Y="13.5" Width="4" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="13.125" />
+        <Point X="7" Y="13.125" />
+        <Point X="7" Y="13.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPocetPreprodObyv.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetProdObyv">
+    <Position X="5" Y="11.5" Width="4" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="11.125" />
+        <Point X="7" Y="11.125" />
+        <Point X="7" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPocetProdObyv.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPrislusnost">
+    <Position X="0.75" Y="11.5" Width="3.5" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="6.941" />
+        <Point X="3.5" Y="9.361" />
+        <Point X="0.59" Y="9.361" />
+        <Point X="0.59" Y="11.2" />
+        <Point X="2.5" Y="11.2" />
+        <Point X="2.5" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAQAAAAAIAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPrislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJTyp">
+    <Position X="9.25" Y="9.5" Width="4.5" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="9.125" />
+        <Point X="11.5" Y="9.125" />
+        <Point X="11.5" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJTyp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJZastavanaPlocha">
+    <Position X="9.5" Y="11.5" Width="3.75" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="11.125" />
+        <Point X="9.26" Y="11.125" />
+        <Point X="9.26" Y="12.116" />
+        <Point X="9.5" Y="12.116" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJZastavanaPlocha.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJZastavanost">
+    <Position X="9.75" Y="13.5" Width="3.75" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="13.125" />
+        <Point X="11.625" Y="13.125" />
+        <Point X="11.625" Y="13.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJZastavanost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetPoprodObyv">
+    <Position X="5" Y="15.5" Width="4" />
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="14.893" />
+        <Point X="7" Y="14.893" />
+        <Point X="7" Y="15.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPocetPoprodObyv.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumBJ&lt;T&gt;" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumBJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumBJPocet">
+    <Position X="5.25" Y="7.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumBJPocet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumBJPocetIzieb">
+    <Position X="10.5" Y="6" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumBJPocetIzieb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumBJPocetOsob">
+    <Position X="10.5" Y="7.5" Width="4" />
+    <InheritanceLine Type="KriteriumBJ&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.125" Y="7.191" />
+        <Point X="8.125" Y="7.345" />
+        <Point X="9.898" Y="7.345" />
+        <Point X="9.898" Y="8.125" />
+        <Point X="10.5" Y="8.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumBJPocetOsob.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumBJTyp">
+    <Position X="10.5" Y="4.5" Width="4" />
+    <InheritanceLine Type="KriteriumBJ&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="7.75" Y="6.5" />
+        <Point X="7.75" Y="5.938" />
+        <Point X="12.5" Y="5.938" />
+        <Point X="12.5" Y="5.733" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumBJTyp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetBJ">
+    <Position X="9.5" Y="15.5" Width="3.25" />
+    <Members>
+      <Field Name="pocet" Hidden="true" />
+    </Members>
+    <InheritanceLine Type="KriteriumUJ&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="6.941" />
+        <Point X="4.75" Y="14.896" />
+        <Point X="11.125" Y="14.896" />
+        <Point X="11.125" Y="15.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAASIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KriteriumUJPocetBJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
